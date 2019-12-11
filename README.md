@@ -11,9 +11,26 @@
 ## Key Points
 - JUnit 5 (2017.9.10)
 
+
+## Test Level
 - Unit Test
 - Integration Test: Mock
-- End-to-end Test: selenium
+- System Test / End-to-end Test
+- Acceptance Test
+
+
+## Test Method
+- Black box
+- White box
+- Non-functional
+
+## Test type
+- Manual
+- Automated
+
+
+## Test points: functional, performance, usability, security, coverage
+
 
 - Test spring boot: 
 
