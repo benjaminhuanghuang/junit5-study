@@ -1,4 +1,19 @@
 
+
+## JUnit versions
+- JUnit 3
+    
+    JUnit 3 can work with Java 2 and higher
+
+- JUnit 4.0
+   
+   Released on February 18, 2006
+   
+   In JUnit 4, Java annotations are used to mark methods as tests. For this reason, JUnit 4 can only be used for Java 5 or later
+
+- JUnit 5.0
+    
+
 ## Run test case in command line
 JUnit 3, -cp means class path
 ```
