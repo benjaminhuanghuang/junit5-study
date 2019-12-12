@@ -4,10 +4,10 @@ package ben.study.junit4.runner;
 import static org.junit.jupiter.api.Assertions.assertEquals;
 
 import org.junit.jupiter.api.Test;
-import org.junit.platform.runner.JUnitPlatform;
+//import org.junit.platform.runner.JUnitPlatform;
 import org.junit.runner.RunWith;
 
-@RunWith(JUnitPlatform.class)
+//@RunWith(JUnitPlatform.class)
 public class TestJUnit5Runner {
 
     @Test
