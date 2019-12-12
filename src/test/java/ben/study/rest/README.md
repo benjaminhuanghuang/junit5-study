@@ -1,9 +1,10 @@
-“can use the open source library REST Assured (http://rest-assured.io/). 
+## Library
+Use the open source library REST Assured (http://rest-assured.io/). 
 REST Assured allows the validation of REST services by means of a fluent API inspired in dynamic languages such as Ruby or Groovy.
  
  
  
-To use REST Assured in our test project, we simply need to add the proper dependency in Maven:”
+## Maven dependency
 
 ````
 <dependency>
