@@ -11,6 +11,7 @@
     <modules>
         <module>junit5-cucumber</module>
         <module>junit5-docker</module>
+        <module>junit5-rest-assured</module>
     </modules>
     <parent>
         <groupId>org.springframework.boot</groupId>
