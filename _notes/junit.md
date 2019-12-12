@@ -37,3 +37,12 @@ JUnit 5
 
 - Platform, Jupiter(for new tests), Vintage (for old test)
 
+## Junit 5 Maven Dependency
+```
+  <dependency>
+    <groupId>org.junit.jupiter</groupId>
+    <artifactId>junit-jupiter-engine</artifactId>
+    <version>${junit-jupiter.version}</version>
+    <scope>test</scope>
+  </dependency>
+```
